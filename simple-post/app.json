@@ -1,0 +1,12 @@
+{
+  "name": "simple-post",
+  "displayName": "simple-post",
+  "expo": {
+    "name": "simple-post",
+    "slug": "simple-post",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
